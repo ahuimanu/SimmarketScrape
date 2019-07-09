@@ -26,7 +26,7 @@ class SimmarketP3DV4SceneryParser:
         self.sceneries = []
         self.page_extension = '.chtml'
         self.page_prefix = 'https://secure.simmarket.com/prepar3d-v4-scenery-page-'
-        self.last_page = 12
+        self.last_page = 13
 
     def parse_sceneries(self):
 
